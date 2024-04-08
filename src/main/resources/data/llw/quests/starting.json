@@ -1,0 +1,11 @@
+{
+  "id": "starting",
+  "texture": "llw:folio_of_the_elements",
+  "parentId": null,
+  "name": "quest.llw.starting",
+  "description": "desc_quest.llw.starting",
+  "position": {
+    "x": 0,
+    "y": 0
+  }
+}

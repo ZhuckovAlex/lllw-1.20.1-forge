@@ -1,0 +1,11 @@
+{
+  "id": "magic_places",
+  "texture": "llw:ink_and_pen",
+  "parentId": "starting",
+  "name": "quest.llw.magic_places",
+  "description": "desc_quest.llw.magic_places",
+  "position": {
+    "x": 0,
+    "y": 40
+  }
+}

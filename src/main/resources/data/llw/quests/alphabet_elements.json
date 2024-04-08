@@ -1,0 +1,11 @@
+{
+  "id": "alphabet_elements",
+  "texture": "llw:focusing_lens",
+  "parentId": "starting",
+  "name": "quest.llw.alphabet_elements",
+  "description": "desc_quest.llw.alphabet_elements",
+  "position": {
+    "x": 0,
+    "y": -40
+  }
+}

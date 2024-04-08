@@ -1,0 +1,75 @@
+{
+  "moon_tear_place": {
+    "subtitle": "sounds.llw.moon_tear_place",
+    "sounds": [
+      {
+        "name": "llw:moon_tear_place"
+      },
+      {
+        "name": "llw:moon_tear_place1"
+      },
+      {
+        "name": "llw:moon_tear_place2"
+      },
+      {
+        "name": "llw:moon_tear_place3"
+      }
+    ]
+  },
+  "moon_tear_break": {
+    "subtitle": "sounds.llw.moon_tear_break",
+    "sounds": [
+      {
+        "name": "llw:moon_tear_break"
+      },
+      {
+        "name": "llw:moon_tear_break1"
+      },
+      {
+        "name": "llw:moon_tear_break2"
+      },
+      {
+        "name": "llw:moon_tear_break3"
+      }
+    ]
+  },
+  "moon_tear_fall": {
+    "subtitle": "sounds.llw.moon_tear_fall",
+    "sounds": [
+      {
+        "name": "llw:moon_tear_step"
+      },
+      {
+        "name": "llw:moon_tear_step1"
+      }
+    ]
+  },
+  "moon_tear_hit": {
+    "subtitle": "sounds.llw.moon_tear_hit",
+    "sounds": [
+      {
+        "name": "llw:moon_tear_hit"
+      },
+      {
+        "name": "llw:moon_tear_hit"
+      }
+    ]
+  },
+  "moon_tear_step": {
+    "subtitle": "sounds.llw.moon_tear_step",
+    "sounds": [
+      {
+        "name": "llw:moon_tear_step"
+      },
+      {
+        "name": "llw:moon_tear_step1"
+      },
+      {
+        "name": "llw:moon_tear_step2"
+      },
+      {
+        "name": "llw:moon_tear_step3"
+      }
+    ]
+  }
+}
