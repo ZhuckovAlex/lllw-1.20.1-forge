@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "legends_lost_worlds:crystal_cave_stone"
+          "name": "llw:crystal_cave_stone"
         }
       ],
       "rolls": 1.0
